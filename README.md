@@ -25,18 +25,6 @@ The "Beginner's Flute" project is an innovative self-learning interface designed
     - Processing software for creating interactive tutorials and games.
     - Arduino IDE for programming the microcontroller.
 
-## Future Extensions
-
-- **Advanced Features:** This system can be further enhanced for professional musicians by adding features such as displaying musical notes on a screen or producing multiple sound scales simultaneously.
-- **Scalability:** The concept can be applied to other wind instruments, making it a versatile tool in music education.
-
-## Benefits and Impact
-
-- **Affordable Learning:** Provides an accessible and cost-effective way to learn the flute, eliminating the need for expensive lessons.
-- **Self-Dependence:** Empowers users to learn at their own pace, promoting self-dependency.
-- **Interactive Learning:** Engages users through interactive games, making the learning process enjoyable and effective.
-- **Widespread Impact:** Can be adapted to other instruments, potentially transforming music education on a larger scale.
-
 ## Authors
 
 - [Manoj Kumar](mailto:manoj19058@iiitd.ac.in)
